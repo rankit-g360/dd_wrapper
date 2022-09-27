@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     dd_wrapper (0.1.0)
-      ddtrace
-      google-protobuf
+      ddtrace (~> 1.4.1)
+      google-protobuf (~> 3.21.6)
       rails
 
 GEM
