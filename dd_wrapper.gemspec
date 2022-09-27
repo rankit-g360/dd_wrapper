@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["rankitranjan"]
   spec.email         = ["rankit.ranjan@groups360.com"]
 
-  spec.summary       = %q{Wrapper of datadog}
-  spec.description   = %q{Wrapper of datadog gem to avoid adding dd gem and there config. to achieve dry}
-  spec.homepage      = ""
+  spec.summary       = 'Wrapper of datadog'
+  spec.description   = 'Wrapper of datadog gem to avoid adding dd gem and there config. to achieve dry'
+  spec.homepage      = "http://website.com"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
